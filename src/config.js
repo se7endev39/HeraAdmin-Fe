@@ -1,0 +1,6 @@
+export const nftaddress = "0x3b3eF26009F29F30C57e65bb5600448Dd6d04143"
+export const nftmarketaddress = "0x5E94F22deE6bE1e875Fa914fF88343A413D8bd76" 
+export const dibs_erc721_address = "0x56e173a6B6A9c40B9a12Cb747dA88deF6D697707"
+export const dibs_erc1155_address = "0xc9bAF69285EeaD0CA0aE11d62231980f746ee9b4"
+export const dibs_shotgun_address = "0x7307b4095FCd9bE964A7833fb9c0C069618FbA80"
+export const dibs_unstructuredproxy_address = "0x06FA23BB806b209af4c9b918a4345219396A28D8"
