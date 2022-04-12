@@ -79,25 +79,6 @@ const CollectionDetails = ({ history }) => {
     }    
   };
 
-  // async function getMintedList() {
-  //   try {
-  //     const balance = await DibbsERC721Upgradeable.methods.balanceOf(account).call();
-  //     let temp=[];
-  //     for( var i = 0; i < balance; i++ )
-  //     {
-  //       const token_id = await DibbsERC721Upgradeable.methods.tokenOfOwnerByIndex(account,i).call();
-  //       console.log('token_id',token_id);
-  //       temp.push(token_id);
-        
-  //     }
-  //     settokenIDs(temp);
-  //     return true;
-  //   } catch (e) {
-  //   }
-  //   return false;
-  // }
-
-
   return (
     <>
       <MenuWrapper className="animation-fadeInRight">
